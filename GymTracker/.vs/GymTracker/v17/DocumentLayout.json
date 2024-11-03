@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GYM\\GymTracker\\",
+  "WorkspaceRootPath": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gym\\gymtracker\\gymtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gitprojects\\gymtracker\\gym-tracker\\gymtracker\\gymtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gym\\gymtracker\\gymtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gitprojects\\gymtracker\\gym-tracker\\gymtracker\\gymtracker\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gitprojects\\gymtracker\\gym-tracker\\gymtracker\\gymtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gym\\gymtracker\\gymtracker\\gymtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\gymtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gym\\gymtracker\\gymtracker\\gymtracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\gymtracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gym\\gymtracker\\gymtracker\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|d:\\gitprojects\\gymtracker\\gym-tracker\\gymtracker\\gymtracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{274CA5DF-617E-4DAC-8FF9-D5C8A64AFD20}|GymTracker\\GymTracker.csproj|solutionrelative:gymtracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,63 +35,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GymTracker",
-              "DocumentMoniker": "D:\\GYM\\GymTracker\\GymTracker\\GymTracker.csproj",
-              "RelativeDocumentMoniker": "GymTracker\\GymTracker.csproj",
-              "ToolTip": "D:\\GYM\\GymTracker\\GymTracker\\GymTracker.csproj",
-              "RelativeToolTip": "GymTracker\\GymTracker.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T20:53:42.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\GYM\\GymTracker\\GymTracker\\index.html",
-              "RelativeDocumentMoniker": "GymTracker\\index.html",
-              "ToolTip": "D:\\GYM\\GymTracker\\GymTracker\\index.html",
-              "RelativeToolTip": "GymTracker\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-02T20:52:22.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GymTracker",
-              "DocumentMoniker": "D:\\GYM\\GymTracker\\GymTracker\\GymTracker.csproj",
-              "RelativeDocumentMoniker": "GymTracker\\GymTracker.csproj",
-              "ToolTip": "D:\\GYM\\GymTracker\\GymTracker\\GymTracker.csproj",
-              "RelativeToolTip": "GymTracker\\GymTracker.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T20:52:20.036Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GymTracker\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GymTracker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T09:57:25.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "GymTracker\\wwwroot\\index.html",
+              "ToolTip": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\wwwroot\\index.html",
+              "RelativeToolTip": "GymTracker\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-02T20:52:22.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\GYM\\GymTracker\\GymTracker\\appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\appsettings.json",
               "RelativeDocumentMoniker": "GymTracker\\appsettings.json",
-              "ToolTip": "D:\\GYM\\GymTracker\\GymTracker\\appsettings.json",
+              "ToolTip": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\appsettings.json",
               "RelativeToolTip": "GymTracker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T20:50:35.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T20:50:35.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GYM\\GymTracker\\GymTracker\\Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\Program.cs",
               "RelativeDocumentMoniker": "GymTracker\\Program.cs",
-              "ToolTip": "D:\\GYM\\GymTracker\\GymTracker\\Program.cs",
+              "ToolTip": "D:\\GitProjects\\GymTracker\\Gym-Tracker\\GymTracker\\GymTracker\\Program.cs",
               "RelativeToolTip": "GymTracker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T20:50:23.905Z",
               "EditorCaption": ""

@@ -1,0 +1,32 @@
+# Папки Visual Studio
+.vs/
+.vscode/
+
+# Конфигурационные файлы Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Конфигурационные файлы системы и кэш
+bin/
+obj/
+*.log
+*.cache
+
+# Файлы сборки и временные файлы
+*.pdb
+*.lock.json
+*.dbmdl
+*.jfm
+*.sqlite
+*.sqlite3
+
+# Остальные файлы, которые можно не отслеживать
+*.db
+*.pyc
+*.tmp
+GymTracker/GymTracker/obj/Debug/net8.0/GymTracker.assets.cache
+GymTracker/GymTracker/obj/Debug/net8.0/GymTracker.AssemblyInfoInputs.cache
+GymTracker/GymTracker/obj/Debug/net8.0/GymTracker.assets.cache
+GymTracker/GymTracker/obj/Debug/net8.0/GymTracker.AssemblyInfoInputs.cache

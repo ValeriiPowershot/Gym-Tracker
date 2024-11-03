@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    background-color: #111111;
+    color: #fff;
+}
+
+.sidebar {
+    width: 4.5%;
+    background-color: #1e1e1e;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.logo {
+    font-size: 45px;
+    font-weight: bold;
+    color: #ededed;
+    margin-bottom: 30px;
+    user-select: none;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    position: relative;        
+    height: 100vh;              
+}
+
+.menu-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin: 10px;           
+}
+
+.menu-item:last-child {
+    position: absolute; 
+    bottom: 10px;           
+    left: 0;                    
+    right: 0;                   
+}
+
+.menu-item img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.2s;
+}
+
+.menu-item img:hover {
+    transform: scale(1.1);
+}
+
+.main-content {
+    flex: 1;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #1e1e1e;
+    width: 100%;
+    margin-bottom: 20px;
+    top: 0;
+    right: 0;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 10%;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style: none;     
+}
+
+.username {
+    font-size: 18px;
+    display: flex;              /* Используем flexbox для имени пользователя */
+    align-items: center;  
+}
+.user-image-container {
+    width: 38px;                 /* Ширина контейнера */
+    height: 38px;                /* Высота контейнера */
+    border-radius: 50%;          /* Делаем контейнер круглым */
+    background-color: #333333;   /* Цвет фона (по желанию) */
+    display: flex;               /* Используем flex для центрирования изображения */
+    align-items: center;         /* Центрируем по вертикали */
+    justify-content: center;     /* Центрируем по горизонтали */
+}
+
+.user-image {
+    width: 35px;  
+    margin-right: 10px;               /* Ширина изображения */
+    height: auto;               /* Высота автоматически для сохранения пропорций */
+    border-radius: 50%;   
+}
+
+.user-notification{
+    width: 25px;
+    height: 25px;
+}
+
+.flag-icon {
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;  
+}
+
+.grid-container {
+    margin: 2%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background-color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    padding: 15px;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    font-size: 16px;
+    font-weight: normal;
+    color: #fff;
+}
